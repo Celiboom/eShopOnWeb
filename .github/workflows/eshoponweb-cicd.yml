@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 65c8502a-fa5b-406b-b524-d6525d8d854b
   WEBAPP-NAME: eshoponweb-webapp-yantestafi
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
